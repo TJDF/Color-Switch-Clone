@@ -1,0 +1,34 @@
+{
+    "name": "Ball Controls",
+    "maps": [
+        {
+            "name": "Ball",
+            "id": "b1d051ec-b436-4e98-9d4d-338f30f0e5b9",
+            "actions": [
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "e76b5d40-d37c-4409-84f6-00eb39cfb5af",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f54fda27-8c61-4b71-a1a3-e4352183ba03",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
